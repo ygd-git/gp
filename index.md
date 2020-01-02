@@ -4,9 +4,7 @@ You can use the [editor on GitHub](https://github.com/ygd-git/gp/edit/master/ind
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Image](https://github.com/ygd-git/gp/blob/master/IMG_9472.JPG)
 
 ```markdown
 Syntax highlighted code block
